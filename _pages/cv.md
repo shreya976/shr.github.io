@@ -15,7 +15,7 @@ LinkedIn: [linkedin.com/in/shreyash-deshmukh-268720184](https://www.linkedin.com
 
 ## EDUCATION
 - Pre-doctoral Fellow
-  Indian Institude of Management, Bangalore
+  Indian Institute of Management, Bangalore
 - Master of Population Studies  
   International Institute for Population Sciences, Mumbai  
 - MSc Statistics  
