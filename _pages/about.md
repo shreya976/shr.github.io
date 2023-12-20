@@ -1,3 +1,5 @@
+remote_theme: pages-themes/cayman
+
 ---
 permalink: /
 title: "Biography"
