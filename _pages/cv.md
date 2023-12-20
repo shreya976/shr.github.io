@@ -14,12 +14,12 @@ Email: shrdjhu@gmail.com | Phone: 09130918373 | Location: Pune
 LinkedIn: [linkedin.com/in/shreyash-deshmukh-268720184](https://www.linkedin.com/in/shreyash-deshmukh-268720184)
 
 ## EDUCATION
+- Pre-doctoral Fellow
+  Indian Institude of Management, Bangalore
 - Master of Population Studies  
   International Institute for Population Sciences, Mumbai  
-  07/2022 - Present
 - MSc Statistics  
   SARDAR PATEL UNIVERSITY ANAND GUJARAT  
-  2018 - 2020
 - BSc Statistics  
   Savitribai Phule Pune University, Maharashtra  
   2015 - 2018, CGPA-6.9
@@ -52,9 +52,9 @@ Johns Hopkins University(BJGMC-JHU) Clinical Research Site, Pune
    - Data of 135,239 tribal women from the NFHS-5, available in the public domain was used.
    - This paper intends to analyze the factors associated with the utilization of maternal health care services among married tribal women, such as various socioeconomic, demographic, and cultural factors.
 
-2. **(Under-Grad project) Regressional Diagnostic of Time Specific Rainfall and Annual Production of Soyabean Yield in Amaravati District**
-   - Daily rainfall in Amaravati district was related to Production of Soyabean Yield.
-   - Regression techniques and stepwise selection procedure were used in R to obtain the model.
+2. **(Under-Grad project) Regressional Diagnostic of Time-Specific Rainfall and Annual Production of Soybean Yield in Amaravati District**
+   - Daily rainfall in Amaravati district was related to the Production of Soybean Yield.
+   - Regression techniques and stepwise selection procedures were used in R to obtain the model.
 
 ## PROFILE
 - Studied the designing and implementation of large sample surveys.
