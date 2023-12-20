@@ -15,11 +15,14 @@ LinkedIn: [linkedin.com/in/shreyash-deshmukh-268720184](https://www.linkedin.com
 
 ## EDUCATION
 - Pre-doctoral Fellow
-   Indian Institute of Management, Bangalore
+  Indian Institute of Management, Bangalore
+  2023 - Present
 - Master of Population Studies  
-  International Institute for Population Sciences, Mumbai  
+  International Institute for Population Sciences, Mumbai
+  2022 - 2023
 - MSc Statistics  
-  SARDAR PATEL UNIVERSITY ANAND GUJARAT  
+  Sardar Patel University, Anand
+  2018 - 2020
 - BSc Statistics  
   Savitribai Phule Pune University, Maharashtra  
   2015 - 2018, CGPA-6.9
