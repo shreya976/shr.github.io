@@ -3,6 +3,6 @@ main:
   - title: "CV"
     url: /cv/
   - title: "Education"
-    url:"education"
+    url: /education/
     
 
