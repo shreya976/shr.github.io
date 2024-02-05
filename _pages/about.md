@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 # Shreyas Deshmukh
 Passionate Researcher | Statistics Enthusiast | Public Health Advocate
 
-Greetings! I am Shreyas Deshmukh, a dedicated researcher with a post-graduate degree in Statistics and a profound interest in public health research. Currently pursuing a Master’s in Population Studies at the International Institute for Population Sciences in Mumbai, my academic journey has been enriched with a comprehensive MSc in Statistics from Sardar Patel University, Anand, Gujarat, and a BSc in Statistics from Savitribai Phule Pune University, Maharashtra.
+I am a pre-doctoral fellow at IIM Bangalore in the field of decision science, under the mentorship of [Dr. Saudeep Deb](https://soudeepd.github.io/). Here, I have worked on developing novel methodologies for predicting disease outbreaks, evaluating them using experimental and simulation approaches. Currently, I am focused on quantile autoregression and its efficiency in predicting higher values in time series data. 
+
+
+I am a dedicated researcher with a post-graduate degree in Statistics and Master’s in Population Studies. With a profound interest in public health research. With masters in population studies from the International Institute for Population Sciences in Mumbai, my academic journey has been enriched with a comprehensive MSc in Statistics from Sardar Patel University, Anand, Gujarat, and a BSc in Statistics from Savitribai Phule Pune University, Maharashtra.
 
 ## Professional Journey
 
