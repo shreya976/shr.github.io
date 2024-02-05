@@ -1,46 +1,75 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Shreyas Deshmukh - About Me</title>
-  <link rel="stylesheet" href="pages-themes/cayman/cayman.min.css">
-</head>
-<body>
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-<main class="container content">
-  <div class="row">
-    <div class="col-md-8">
-      <h1>Shreyas Deshmukh</h1>
-      <p>Passionate Researcher | Statistics Enthusiast | Public Health Advocate</p>
+# Shreyas Deshmukh
+Researcher  
+Post-grad in statistics, with proven experience in statistics. Highly interested in public health research.  
+Email: shrdjhu@gmail.com | Phone: 09130918373 | Location: Pune  
+LinkedIn: [linkedin.com/in/shreyash-deshmukh-268720184](https://www.linkedin.com/in/shreyash-deshmukh-268720184)
 
-      <p>Greetings! I am Shreyas Deshmukh, a dedicated researcher with a post-graduate degree in Statistics and a profound interest in public health research. Currently pursuing a Master’s in Population Studies at the International Institute for Population Sciences in Mumbai, my academic journey has been enriched with a comprehensive MSc in Statistics from Sardar Patel University, Anand, Gujarat, and a BSc in Statistics from Savitribai Phule Pune University, Maharashtra.</p>
+## EDUCATION
+- Pre-doctoral Fellow
+  Indian Institute of Management, Bangalore
+  2023 - Present
+- Master of Population Studies  
+  International Institute for Population Sciences, Mumbai
+  2022 - 2023
+- MSc Statistics  
+  Sardar Patel University, Anand
+  2018 - 2020
+- BSc Statistics  
+  Savitribai Phule Pune University, Maharashtra  
+  2015 - 2018, CGPA-6.9
 
-      <h2>Professional Journey</h2>
+## WORK EXPERIENCE
+**Statistician and Jr Data Manager**  
+Johns Hopkins India Private Limited  
+06/2021 - 07/2022, Pune  
+Johns Hopkins University(BJGMC-JHU) Clinical Research Site, Pune
+- Supervised data management staff (1-2 staff at each site).
+- Worked on developing clinical risk prediction methods on longitudinal and survival data.
+- Assisted in developing statistical analysis plans for complex Public Health/Clinical research projects.
+- Performed analysis of large, complex dataset using R and Python.
+- Participated in discussions with PI and study coordinator for finalizing the paper-based CRF for the study.
+- Trained study clinicians, counselors, and field staff in data entry system and relevant SOPs.
+- Performed QA/QC activities; identified and resolved errors and inconsistencies in case report form (CRF) data to capture consistently high-standard data.
+- Implemented data quality improvement plans and timelines.
+- Collaborated with study PIs, Study Coordinators, and Lead Biostatistician to complete all data requests in a timely manner.
 
-      <p>In my recent role as a Statistician and Jr Data Manager at Johns Hopkins India Private Limited, Pune, I played a pivotal role in supervising data management staff, developing clinical risk prediction methods, and contributing to the statistical analysis plans for complex public health and clinical research projects.</p>
+## SKILLS
+- Monitoring and Evaluation
+- Large Sample Survey
+- MS-Excel, MS PowerPoint
+- Machine Learning: Python, R
+- SQL, Tableau
+- Statistical Modelling, Statistical Inference: Stata, SPSS
 
-      <h2>Technical Expertise</h2>
+## PERSONAL PROJECTS
+1. **Comparative study on maternal healthcare services utilization by tribal women in India and its states: evidence from the NFHS-IV**
+   - Data of 135,239 tribal women from the NFHS-5, available in the public domain was used.
+   - This paper intends to analyze the factors associated with the utilization of maternal health care services among married tribal women, such as various socioeconomic, demographic, and cultural factors.
 
-      <p>Proficient in tools such as **R**, **Python**, **SQL**, and **Tableau**, I thrive in utilizing statistical modeling techniques and inference to derive meaningful insights from large datasets.</p>
+2. **(Under-Grad project) Regressional Diagnostic of Time-Specific Rainfall and Annual Production of Soybean Yield in Amaravati District**
+   - Daily rainfall in Amaravati district was related to the Production of Soybean Yield.
+   - Regression techniques and stepwise selection procedures were used in R to obtain the model.
 
-      <h2>Personal Projects</h2>
+## PROFILE
+- Studied the designing and implementation of large sample surveys.
+- Familiar with NHFS data, LASI, NSSO, IHDS micro data.
+- Sound understanding of Machine Learning Techniques and algorithms, such as RF, KNN, SVM, Decision Tree, etc.
+- Worked with classical regression techniques like Linear regression, logistic regression, polynomial and multinomial regression, etc.
+- Storytelling with data.
+- Well familiar with Tableau and visualization libraries like "ggplot2," "graphics" for R, and "matplotlib" and "seaborn" for Python.
 
-      <p>My commitment to impactful research and analysis is reflected in my personal projects. Notably, a comparative study on maternal healthcare services utilization among tribal women in India stands as a testament to my dedication and passion for making a difference.</p>
+## LANGUAGES
+- English: Full Professional Proficiency
+- Hindi: Full Professional Proficiency
+- Marathi: Native or Bilingual Proficiency
 
-      <h2>Skills Snapshot</h2>
-
-      <ul>
-        <li><strong>Statistical Modeling</strong>: Leveraging advanced statistical techniques to extract valuable insights.</li>
-        <li><strong>Data Management</strong>: Proficient in handling and managing large datasets with tools like SQL.</li>
-        <li><strong>Programming Languages</strong>: Expertise in **R** and **Python** for data analysis and visualization.</li>
-        <li><strong>Machine Learning</strong>: Well-versed in modern machine learning algorithms for predictive modeling.</li>
-      </ul>
-    </div>
-    <div class="col-md-4">
-      </div>
-  </div>
-</main>
-
-</body>
-</html>
+## TASKS
