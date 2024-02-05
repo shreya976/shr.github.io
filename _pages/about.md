@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-
-Passionate Researcher | Statistics Enthusiast | Public Health Advocate
+ 
 
 I am a pre-doctoral fellow at IIM Bangalore in the field of decision science, under the mentorship of [Dr. Saudeep Deb](https://soudeepd.github.io/). Here, I have worked on developing novel methodologies for predicting disease outbreaks, evaluating them using experimental and simulation approaches. Currently, I am focused on quantile autoregression and its efficiency in predicting higher values in time series data. 
 
